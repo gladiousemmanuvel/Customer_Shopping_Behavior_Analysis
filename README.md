@@ -30,8 +30,8 @@ Customer_Shopping_Behavior_Analysis/
 ├── Customer Behavior Dashboard.png
 └── README.md
 ```
-📊 Dashboard Preview
-💡Project Insights
+## 📊 Dashboard Preview
+## 💡Project Insights
 Demographic Driver: Young Adults and adult male shoppers account for the largest proportion of transaction volume.
 
 Category Performance: Clothing and Accessories emerge as the top revenue-generating product categories.
@@ -40,5 +40,5 @@ Subscription Rate: Approximately 73% of total shoppers are non-subscribers, pres
 
 Spending Behavior: The overall average purchase value per transaction stands at $59.76.
 
-🏁 Final Conclusion
+## 🏁 Final Conclusion
 To maximize overall retail revenue, a strategic marketing plan focusing on promoting subscription programs to repeat non-subscribed customers should be implemented. Loyalty programs tailored towards high-volume categories like Clothing and Accessories will further drive customer engagement and average order values.
